@@ -1,4 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h> // Put this with the other includes at the top of your overlay
+#include "shortcut-layouts.dtsi"
 
 / {
     default_transform: keymap_transform0 {
